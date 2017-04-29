@@ -2,13 +2,13 @@
 ## bentobox/Ansible/Vagrantfile
   * box = bento/ubuntu-16.04
 
-## Synced Folders
+### 1. Synced Folders
   * ~/ansible -> /home/vagrant/ansible
   * ~/pythonb -> /home/vagrant/python
 
-## Ansible
+### 2. Ansible
   * latest 'devel' branch
 
-## Extras
+### 3. Extras
   * wajig
   * python colorama  
