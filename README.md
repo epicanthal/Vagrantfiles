@@ -4,7 +4,7 @@
 
 ### 1. Synced Folders
   * ~/ansible -> /home/vagrant/ansible
-  * ~/pythonb -> /home/vagrant/python
+  * ~/python -> /home/vagrant/python
 
 ### 2. Ansible
   * latest 'devel' branch
