@@ -11,4 +11,5 @@
 
 ### 3. Extras
   * wajig
-  * python colorama  
+  * python colorama
+  * python requests  
