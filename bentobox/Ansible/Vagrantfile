@@ -114,6 +114,9 @@ Vagrant.configure("2") do |config|
     #   Use:  'wajig daily-upgrade'
     apt-get install -y wajig
 
+    # http://docs.python-requests.org/en/master/
+    pip install requests
+
     # https://pypi.python.org/pypi/colorama
     pip install colorama
   SHELL
